@@ -1,0 +1,4 @@
+User { "Ivan" "iv1234" "passw123"}
+User { "Katerina" "kater123" "password456"}
+Message { "Hi" "iv1234" "kater123"}
+Message { "Hi, Ivan" "kater123" "iv1234"}
